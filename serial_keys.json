@@ -1,6 +1,6 @@
 {
     "ABC-123-XYZ": {
-        "used": false,
+        "used": true,
         "hwid": ""
     },
     "DEF-456-UVW": {
