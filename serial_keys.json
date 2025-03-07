@@ -10,5 +10,9 @@
     "GHI-789-JKL": {
         "used": true,
         "hwid": "b198ddfe8addba15017ea3d5440b37b187245dd542b8b4778112734da6285f2a"
-    }
+    },
+    "FHI-789-776": {
+        "used": false,
+        "hwid": ""
+    } 
 }
